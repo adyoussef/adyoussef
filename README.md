@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate and work on projects around LLM reasoning, safety, and scalability
 
-- 👨<200d>💻 All of my projects are available at [https://adyoussef.github.io/](https://adyoussef.github.io/)
+- 💻 All of my projects are available at [https://adyoussef.github.io/](https://adyoussef.github.io/)
 
 - 📫 How to reach me **youssead@ucmail.uc.edu**
 
