@@ -6,17 +6,17 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/ahmedyo_9" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedyo_9?logo=twitter&style=for-the-badge" alt="ahmedyo_9" /></a> </p> -->
 
-🔭 I've co-developed a variety of tools that are open source, such as [ML4CPV](https://github.com/adamdddave/EMD4CPV), for analyzing data from collider experiments like the LHC. Within [MLHad](https://uchep.gitlab.io/mlhad-docs/), I contributed to developing a [machine learning-based particle collision simulation](https://gitlab.com/uchep/mlhad) and an [event reweighting method](https://gitlab.com/uchep/mlhad-weights-validation). These tools enable fast event generation and uncertainty estimation and will be implemented in the general-purpose event generator [Pythia](https://pythia.org/).
+🔭 I've developed a variety of tools that are open source, such as [ML4CPV](https://github.com/adamdddave/EMD4CPV), for analyzing data from collider experiments like the Large Hadron Collider. Within [MLHad](https://uchep.gitlab.io/mlhad-docs/), I contributed to developing a [machine learning-based particle collision simulation](https://gitlab.com/uchep/mlhad) and an [event reweighting method](https://gitlab.com/uchep/mlhad-weights-validation). These tools enable fast event generation and uncertainty estimation and will be implemented in the general-purpose event generator [Pythia](https://pythia.org/).
 
 - 👯 I’m looking to collaborate and work on projects around LLM reasoning, safety, and scalability
 
 - 💻 All of my projects are available at [https://adyoussef.github.io/](https://adyoussef.github.io/)
 
-- 📫 How to reach me **youssead@ucmail.uc.edu**
+- 📫 How to reach me youssead@ucmail.uc.edu
 
 - 📄 Know about my experiences [https://adyoussef.github.io/uploads/CV_Ahmed_Youssef_industry_2_pages_v4.pdf](https://adyoussef.github.io/uploads/CV_Ahmed_Youssef_industry_2_pages_v4.pdf)
 
-- ⚡ Fun fact **I am in the college boxing team and competed in the Regional and National Collegiate Boxing**
+- ⚡ Fun fact: I am in the college boxing team and competed in the Regional and National Collegiate Boxing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
