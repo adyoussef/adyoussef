@@ -16,7 +16,7 @@ Outside the physics domain, I have contributed to LLM text-style transfer method
 
 - 📫 How to reach me youssead@ucmail.uc.edu
 
-- 📄 Know about my experiences [https://adyoussef.github.io/uploads/CV_Ahmed_Youssef_industry_2_pages_v4.pdf](https://adyoussef.github.io/uploads/CV_Ahmed_Youssef_industry_2_pages_v4.pdf)
+- 📄 Know about my experiences [hier](https://adyoussef.github.io/uploads/CV_Ahmed_Youssef.pdf)
 
 - ⚡ Fun fact: I am in the college boxing team and competed in the Regional and National Collegiate Boxing
 
