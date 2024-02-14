@@ -8,6 +8,8 @@
 
 🔭 I've developed a variety of tools that are open source, such as [ML4CPV](https://github.com/adamdddave/EMD4CPV), for analyzing data from collider experiments like the Large Hadron Collider. Within [MLHad](https://uchep.gitlab.io/mlhad-docs/), I contributed to developing a [machine learning-based particle collision simulation](https://gitlab.com/uchep/mlhad) and an [event reweighting method](https://gitlab.com/uchep/mlhad-weights-validation). These tools enable fast event generation and uncertainty estimation and will be implemented in the general-purpose event generator [Pythia](https://pythia.org/).
 
+Outside the physics domain, I have contributed to LLM text-style transfer methods like [FASST](https://github.com/omaralsayed/fasst) and [Hacking Generative Models]() to generate out-of-distribution samples towards a new objective.
+
 - 👯 I’m looking to collaborate and work on projects around LLM reasoning, safety, and scalability
 
 - 💻 All of my projects are available at [https://adyoussef.github.io/](https://adyoussef.github.io/)
